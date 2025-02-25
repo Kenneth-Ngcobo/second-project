@@ -14,3 +14,5 @@ In this second project, I create a README profile .....
 
 1. Ldokfe9he
 2. .kohoiu
+
+[Github Project Link](https://github.com/Kenneth-Ngcobo/second-project)
